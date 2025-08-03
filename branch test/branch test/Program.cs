@@ -10,6 +10,8 @@ namespace branch_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Its a test.");
+            Console.ReadKey();
         }
     }
 }
